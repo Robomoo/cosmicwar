@@ -1,0 +1,20 @@
+{
+    "author": "Robomoo",
+    "build": "105067",
+    "category": [
+        "settings"
+    ],
+    "context": "client",
+    "date": "2017-08-13",
+    "description": "Testing testing 123",
+    "display_name": "Cosmic War",
+    "forum": "https://forums.uberent.com/threads/cosmic-war-expansion.72515/",
+    "identifier": "net.cosmicwar.cw-expansion",
+    "priority": 90,
+    "signature": "(not yet implemented)",
+    "version": "1",
+    "dependencies": [
+        "com.pa.legion-expansion-server",
+	   "com.pa.legion-expansion-client"
+    ]
+}
