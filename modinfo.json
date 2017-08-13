@@ -4,7 +4,7 @@
     "category": [
         "settings"
     ],
-    "context": "client",
+    "context": "server",
     "date": "2017-08-13",
     "description": "Testing testing 123. Nothing to see here yet.",
     "display_name": "Cosmic War Testing",
@@ -12,7 +12,7 @@
     "identifier": "net.cosmicwar.cw-expansion",
     "priority": 90,
     "signature": "(not yet implemented)",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "dependencies": [
         "com.pa.legion-expansion-server",
 	   "com.pa.legion-expansion-client"
