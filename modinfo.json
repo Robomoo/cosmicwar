@@ -12,7 +12,7 @@
     "identifier": "net.cosmicwar.cw-expansion",
     "priority": 90,
     "signature": "(not yet implemented)",
-    "version": "1",
+    "version": "1.0.0.1",
     "dependencies": [
         "com.pa.legion-expansion-server",
 	   "com.pa.legion-expansion-client"
